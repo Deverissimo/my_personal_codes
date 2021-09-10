@@ -1,0 +1,16 @@
+function newLine() {
+  document.write("<br>");
+	}
+    // the "newLine" function works as my linebreak.
+
+function docWrite(phrase) {
+  document.write(phrase);
+  newLine();
+	}
+    // "docWrite" is used to write in HTML in a javascript string. the first function it has is a basic doc writing, but the second is the function "newLine" previously created.
+  
+function roulette() {
+  return Math.round(Math.random()*100)
+	}
+    // "roulette" used to give me a random generated number from 0 to (n) - the number is rounded.
+    
