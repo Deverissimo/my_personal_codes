@@ -14,3 +14,8 @@ function roulette() {
 	}
     // "roulette" used to give me a random generated number from 0 to (n) - the number is rounded.
     
+<link
+rel="shortcut icon"
+href="url-image"
+type="image/x-icon"
+>
